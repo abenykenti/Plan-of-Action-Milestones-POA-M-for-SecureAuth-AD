@@ -56,5 +56,3 @@ This Plan of Action and Milestones (POA&M) addresses the findings from the Secur
 ## Conclusion:
 The SecureAuth-AD system currently has vulnerabilities related to account lockout policies. By implementing the recommended corrective actions and adhering to the outlined milestones, SecureAuth-AD will achieve compliance with NIST 800-53 and ISO 27001 standards, reducing risks associated with unauthorized access.
 
-📄 **[Download Full POA&M (PDF)](link_to_poam_pdf)**
-
